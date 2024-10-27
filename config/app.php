@@ -14,7 +14,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
-
+    // 'Vimeo' => Vimeo\Laravel\Facades\Vimeo::class,
     /*
     |--------------------------------------------------------------------------
     | Application Environment
